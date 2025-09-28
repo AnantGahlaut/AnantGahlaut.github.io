@@ -1,16 +1,11 @@
 # AnantGahlaut.github.io
 # My Awesome Website 🌐
-A sleek, experimental site where ideas come alive!  
+This is my Page.
 
-![Website Screenshot](screenshot.png)
+If you ever need to know about me or contact me, please don't. 
 
-Explore interactive UI with smooth transitions ✨, a responsive layout for any device 📱💻, and a dash of futuristic vibes 😎.  
 
-**Built With:** HTML5, CSS3, JavaScript (ES6+), GitHub Pages 🚀  
 
-Check it out live: [mywebsite.github.io](https://mywebsite.github.io)  
+This is prolly **Built With:** HTML5, CSS3, JavaScript (ES6+), GitHub Pages 🚀  
 
-Clone & run locally:
-```bash
-git clone https://github.com/yourusername/yourrepo.git
-open index.html
+[this is a link](github.com)
